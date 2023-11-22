@@ -1,0 +1,12 @@
+package com.test.spring.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class BoardController {
+
+	//- "/spring/board/list.do"
+	//- "/spring/board/add.do"
+	//- "/spring/board/addok.do"
+	//- "/spring/board/view.do"
+}

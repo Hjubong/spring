@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+C:\class\code\spring\.metadata\.plugins\org.eclipse.jdt.core
+187615434.index
+2827189463.index
+2558260760.index
+908877845.index
+11448123.index
+1662736947.index
+8976950.index
+399149460.index
+3386884979.index
+3749291521.index
+498337700.index
+501158379.index
+3485221361.index
+3163445115.index
+543950430.index
+518862053.index
+2565356412.index

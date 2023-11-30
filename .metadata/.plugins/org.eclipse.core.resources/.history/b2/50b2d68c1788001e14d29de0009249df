@@ -1,6 +1,0 @@
-package com.test.spring.controller;
-
-//서블릿(X) > 서블릿 > 컨트롤러 역할(O)
-public class Ex01Controller implements Controller {
-
-}

@@ -119,9 +119,12 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\class\code\spring\ElasticsearchTest"/>
+			<item value="C:\class\code\spring\ElasticsearchProject"/>
 			<item value="C:\class\code\spring\RESTTest"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\class\code\spring\DD-project\src\main\resources\com\project\dd\mypage\voc\mapper\MypageVOCMapper.xml"/>
 			<item value=""/>
 		</list>
 	</section>
